@@ -60,10 +60,10 @@ header {
     border: 2px solid var(--grey-15, #262626);
     background: var(--orange-90, #FFDECC);
     background-image:
-        url(./assets/images/Abstract\ Design\ \(10\).svg),
-        url(./assets/images/Abstract\ Design\ \(9\).svg),
-        url(./assets/images/Abstract\ Design\ \(11\).svg),
-        url(./assets/images/Abstract\ Design\ \(12\).svg);
+        url(./AcademicsPage.assets/images/Abstract\ Design\ \(10\).svg),
+        url(./AcademicsPage.assets/images/Abstract\ Design\ \(9\).svg),
+        url(./AcademicsPage.assets/images/Abstract\ Design\ \(11\).svg),
+        url(./AcademicsPage.assets/images/Abstract\ Design\ \(12\).svg);
     background-repeat: no-repeat;
     background-position:
         left 3px top -7px,
@@ -154,7 +154,7 @@ header {
     align-self: stretch;
     border-left: 2px solid var(--grey-15, #262626);
     background: var(--orange-95, #FFEFE5);
-    background-image: url(./assets/icons/Icon-3.svg);
+    background-image: url(./AcademicsPage.assets/icons/Icon-3.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -191,7 +191,7 @@ header {
     border: 2px solid var(--grey-15, #262626);
     background: var(--absolute-white, #FFF);
     box-shadow: 6px 6px 0px 1px #1E1E1E;
-    background-image: url(./assets/images/img-1.svg);
+    background-image: url(./AcademicsPage.assets/images/img-1.svg);
     background-size: 100px 100px;
     background-repeat: no-repeat;
     background-position: 0 0;
@@ -355,7 +355,7 @@ header {
     background: var(--orange-90, #FFDECC);
     position: absolute;
     transform: translate(0, -80px);
-    background-image: url(./assets/icons/grid.Icon-1.svg);
+    background-image: url(./AcademicsPage.assets/icons/grid.Icon-1.svg);
     background-size: 24px 24px;
     background-repeat: no-repeat;
     background-position: center;
@@ -371,7 +371,7 @@ header {
     background: var(--orange-90, #FFDECC);
     position: absolute;
     transform: translate(0, -80px);
-    background-image: url(./assets/icons/grid.icon-2.svg);
+    background-image: url(./AcademicsPage.assets/icons/grid.icon-2.svg);
     background-size: 24px 24px;
     background-repeat: no-repeat;
     background-position: center;
@@ -387,7 +387,7 @@ header {
     background: var(--orange-90, #FFDECC);
     position: absolute;
     transform: translate(0, -80px);
-    background-image: url(./assets/icons/grid.icon-3.svg);
+    background-image: url(./AcademicsPage.assets/icons/grid.icon-3.svg);
     background-size: 24px 24px;
     background-repeat: no-repeat;
     background-position: center;
@@ -403,7 +403,7 @@ header {
     background: var(--orange-90, #FFDECC);
     position: absolute;
     transform: translate(0, -80px);
-    background-image: url(./assets/icons/grid.icon-4.svg);
+    background-image: url(./AcademicsPage.assets/icons/grid.icon-4.svg);
     background-size: 24px 24px;
     background-repeat: no-repeat;
     background-position: center;
@@ -419,7 +419,7 @@ header {
     background: var(--orange-90, #FFDECC);
     position: absolute;
     transform: translate(0, -80px);
-    background-image: url(./assets/icons/grid.icon-5.svg);
+    background-image: url(./AcademicsPage.assets/icons/grid.icon-5.svg);
     background-size: 24px 24px;
     background-repeat: no-repeat;
     background-position: center;
@@ -435,7 +435,7 @@ header {
     background: var(--orange-90, #FFDECC);
     position: absolute;
     transform: translate(0, -80px);
-    background-image: url(./assets/icons/grid.icon-6.svg);
+    background-image: url(./AcademicsPage.assets/icons/grid.icon-6.svg);
     background-size: 24px 24px;
     background-repeat: no-repeat;
     background-position: center;
@@ -1040,10 +1040,10 @@ footer .footer-top {
         border: 2px solid var(--grey-15, #262626);
         background: var(--orange-90, #FFDECC);
         background-image:
-            url(./assets/images/Abstract\ Design\ \(13\).svg),
-            url(./assets/images/Abstract\ Design\ \(14\).svg),
-            url(./assets/images/Abstract\ Design\ \(15\).svg),
-            url(./assets/images/Abstract\ Design\ \(16\).svg);
+            url(./AcademicsPage.assets/images/Abstract\ Design\ \(13\).svg),
+            url(./AcademicsPage.assets/images/Abstract\ Design\ \(14\).svg),
+            url(./AcademicsPage.assets/images/Abstract\ Design\ \(15\).svg),
+            url(./AcademicsPage.assets/images/Abstract\ Design\ \(16\).svg);
         background-repeat: no-repeat;
         background-position:
             left 0 top -65px,
@@ -1533,10 +1533,10 @@ footer .footer-top {
     .header-button {
         padding: 14px;
         background-image:
-            url(./assets/images/Abstract\ Design\ \(17\).svg),
-            url(./assets/images/Abstract\ Design\ \(18\).svg),
-            url(./assets/images/Abstract\ Design\ \(19\).svg),
-            url(./assets/images/Abstract\ Design\ \(20\).svg);
+            url(./AcademicsPage.assets/images/Abstract\ Design\ \(17\).svg),
+            url(./AcademicsPage.assets/images/Abstract\ Design\ \(18\).svg),
+            url(./AcademicsPage.assets/images/Abstract\ Design\ \(19\).svg),
+            url(./AcademicsPage.assets/images/Abstract\ Design\ \(20\).svg);
         background-repeat: no-repeat;
         background-position:
             left -10px top -91px,
