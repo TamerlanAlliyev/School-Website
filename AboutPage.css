@@ -44,7 +44,7 @@ body{
     left: 4px;
     top: -5px;
     position: absolute;
-    background-image: url(assets/images/left-ball.svg);
+    background-image: url(./AboutPage.assets/images/left-ball.svg);
     background-repeat: no-repeat;
 }
 .left::after {
@@ -54,7 +54,7 @@ body{
     left: -5px;
     top: 4px;
     position: absolute;
-    background-image: url(assets/images/left-rounds.svg);
+    background-image: url(./AboutPage.assets/images/left-rounds.svg);
     background-repeat: no-repeat;
 }
 .right::after {
@@ -64,7 +64,7 @@ body{
     right: -17px;
     top: 30px;
     position: absolute;
-    background-image: url(assets/images/right-ball.svg);
+    background-image: url(./AboutPage.assets/images/right-ball.svg);
     background-repeat: no-repeat;
 }
 
@@ -75,7 +75,7 @@ body{
     right: -4px;
     top: -2px;
     position: absolute;
-    background-image: url(assets/images/right-rounds.svg);
+    background-image: url(./AboutPage.assets/images/right-rounds.svg);
     background-repeat: no-repeat;
 }
 .header-logo-line{
